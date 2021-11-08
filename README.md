@@ -9,7 +9,7 @@
 
 ---
 
-<h5 align=left><li>April, 2021 - Pesent: Summer Intern at Department of Biostatics, Harvard T.H. Chan School of Public Health</li></h5>
 <h5 align=left><li>March, 2021 - Present: Intern at Taiwan Burden of Disease Center</li></h5>
+<h5 align=left><li>April, 2021 - October, 2021: Summer Intern at Department of Biostatics, Harvard T.H. Chan School of Public Health</li></h5>
 <h5 align=left><li>2018 - Present: Bachelor of Science in Public Health, National Taiwan University</li></h5>
 <h5 align=left><li>2016 - 2018: High School Diploma, The Affliated Senior High School of National Taiwan Normal University</li></h5>

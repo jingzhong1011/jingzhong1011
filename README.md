@@ -8,7 +8,7 @@
 <h3 align=center>About My Education and Work Experiences</h3>
 
 ---
-<h5 align=left><li>July, 2022 - : Master of Science in Epidemiology and Prevent Medicine (Major in Biostatistics and Data Science), National Taiwan University</li></h5>
+<h5 align=left><li>July, 2022 - : Master of Science in Biostatistics and Data Science, Institute of Epidemiology and Prevent Medicine, National Taiwan University</li></h5>
 <h5 align=left><li>March, 2021 - Present: Assistant (Intern) at Taiwan Burden of Disease Center</li></h5>
 <h5 align=left><li>April, 2021 - October, 2021: Summer Intern at Department of Biostatstics, Harvard T.H. Chan School of Public Health</li></h5>
 <h5 align=left><li>2018 - Present: Bachelor of Science in Public Health, National Taiwan University</li></h5>
